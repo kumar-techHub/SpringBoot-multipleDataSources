@@ -1,4 +1,4 @@
-package com.techbee.multipledb.example.controller;
+package com.techbee.multipledb.example.service;
 
 import java.util.List;
 import java.util.Optional;
